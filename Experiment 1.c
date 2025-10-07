@@ -3,7 +3,6 @@
 
 
 #include <stdio.h>
-
 int main() {
     float num1, num2;
     float sum, difference, product, quotient;
